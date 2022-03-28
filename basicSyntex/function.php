@@ -2,4 +2,4 @@
 function functionName() {
   code to be executed;
 }
-call functuionName
+call functuionName()
