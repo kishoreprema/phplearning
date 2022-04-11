@@ -31,7 +31,7 @@ font-family:roboto;
                 echo " this file is exists";
             }
             else{
-                move_uploaded_file($_FILES["file"]["tmp_name"],"files/".$_FILES)
+                move_uploaded_file($_FILES["file"]["tmp_name"],"files/".$_FILES);
              }
         }
     }
