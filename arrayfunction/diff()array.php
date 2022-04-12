@@ -6,4 +6,4 @@ $subname2=array("e"=>"kishore","f"=>"karthi","g"=>"ajith");
 
 $result=array_diff($name1,$subname2);
 print_r($result);
-?>
+?>  
